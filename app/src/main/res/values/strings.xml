@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aston_intensive_hometask_5</string>
+    <string name="contact_phone_number_txt">+79991690573</string>
+    <string name="contact_surname_txt">Ivanov</string>
+    <string name="contact_name_txt">Ivan</string>
+    <string name="name">name</string>
+    <string name="enable_editing">enable editing</string>
+    <string name="disable_editing">disable editing</string>
+    <string name="apply_changes">apply changes</string>
+</resources>
